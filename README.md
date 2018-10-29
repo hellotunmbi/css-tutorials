@@ -12,18 +12,18 @@ Feel free to contribute and make pull requests.
 
 ## General Styling
 
-- [Getting to know CSS by Shayhowe](https://learn.shayhowe.com/html-css/getting-to-know-css/)
+- [A list Apart](https://alistapart.com/topic/css)
 - [Bits of Code](https://bitsofco.de/)
 - [CSS Diner by Luke Pacholski](https://flukeout.github.io/)
+- [CSS Tricks](https://css-tricks.com/)
+- [CSS Tutorial by Tutorials Point](https://www.tutorialspoint.com/css/index.htm)
+- [CSS Wizardry](https://csswizardry.com/archive/)
+- [Getting to know CSS by Shayhowe](https://learn.shayhowe.com/html-css/getting-to-know-css/)
 - [Introduction to CSS by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
 - [Learn CSS by Codecademy](https://www.codecademy.com/learn/learn-css)
-- [CSS Tutorial by Tutorials Point](https://www.tutorialspoint.com/css/index.htm)
-- [CSS Tricks](https://css-tricks.com/)
-- [Smashing Magazine](https://www.smashingmagazine.com/category/css)
-- [Responsive Design Weekly](http://responsivedesignweekly.com/)
-- [A list Apart](https://alistapart.com/topic/css)
-- [CSS Wizardry](https://csswizardry.com/archive/)
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Responsive Design Weekly](http://responsivedesignweekly.com/)
+- [Smashing Magazine](https://www.smashingmagazine.com/category/css)
 - [W3Schools](https://www.w3schools.com/css/)
 
 <a name="flexbox"></a>
@@ -36,6 +36,6 @@ Feel free to contribute and make pull requests.
 
 ### CSS Grid
 
-- [Getting Started with CSS Grid by CSS Tricks](https://css-tricks.com/getting-started-css-grid/)
-- [A Complete Guild to Grid by CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [A Complete Guide to Grid by CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [CSS Grid by Wes Bos](https://cssgrid.io/)
+- [Getting Started with CSS Grid by CSS Tricks](https://css-tricks.com/getting-started-css-grid/)
