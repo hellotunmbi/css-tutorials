@@ -26,6 +26,7 @@ Feel free to contribute and make pull requests.
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [W3Schools](https://www.w3schools.com/css/)
 - [Quackit](https://www.quackit.com/css/)
+- [CSS Reference](https://cssreference.io/)
 
 <a name="flexbox"></a>
 
