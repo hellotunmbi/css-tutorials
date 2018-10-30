@@ -32,6 +32,8 @@ Feel free to contribute and make pull requests.
 ### Flexbox
 
 - [A Complete Guide to Flexbox by CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flexbox Froggy](http://flexboxfroggy.com/)
+- [What the Flexbox?! - Wes Bos](https://flexbox.io/)
 
 <a name="cssgrid"></a>
 
