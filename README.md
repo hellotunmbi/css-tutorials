@@ -26,6 +26,7 @@ Feel free to contribute and make pull requests.
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [W3Schools](https://www.w3schools.com/css/)
 - [Quackit](https://www.quackit.com/css/)
+- [freecodecamp](https://medium.freecodecamp.org/get-started-with-css-in-5-minutes-e0804813fc3e)
 - [Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001)
 
 <a name="flexbox"></a>
