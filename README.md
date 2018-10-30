@@ -1,4 +1,4 @@
-# CSS Tutorials
+# CSS Tutorials :+1:
 
 I intend to make a this a comprehensive and inexhaustive repository of FREE CSS Tutorials and guides.
 Feel free to contribute and make pull requests.
