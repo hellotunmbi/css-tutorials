@@ -25,12 +25,16 @@ Feel free to contribute and make pull requests.
 - [CSS Wizardry](https://csswizardry.com/archive/)
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [W3Schools](https://www.w3schools.com/css/)
+- [Quackit](https://www.quackit.com/css/)
+- [freecodecamp](https://medium.freecodecamp.org/get-started-with-css-in-5-minutes-e0804813fc3e)
+- [Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001)
 
 <a name="flexbox"></a>
 
 ### Flexbox
 
 - [A Complete Guide to Flexbox by CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Scotch.io - Visual guide to CSS3 flexbox properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
 
 <a name="cssgrid"></a>
 
@@ -39,6 +43,7 @@ Feel free to contribute and make pull requests.
 - [Getting Started with CSS Grid by CSS Tricks](https://css-tricks.com/getting-started-css-grid/)
 - [A Complete Guild to Grid by CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [CSS Grid by Wes Bos](https://cssgrid.io/)
+- [CSS Grid Garden by Thomas Park](https://cssgridgarden.com)
 
 ### Online editor
 
