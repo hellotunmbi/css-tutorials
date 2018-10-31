@@ -35,7 +35,7 @@ Feel free to contribute and make pull requests.
 
 - [A Complete Guide to Flexbox by CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Scotch.io - Visual guide to CSS3 flexbox properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
-
+- [Flexbox Froggy - A game for learning CSS Flexbox](https://flexboxfroggy.com/)
 <a name="cssgrid"></a>
 
 ### CSS Grid
