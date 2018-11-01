@@ -32,6 +32,7 @@ Feel free to contribute and make pull requests.
 - [Quackit](https://www.quackit.com/css/)
 - [freecodecamp](https://medium.freecodecamp.org/get-started-with-css-in-5-minutes-e0804813fc3e)
 - [Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001)
+- [Treehouse](https://teamtreehouse.com/library/css-basics)
 - [DevDocs](https://devdocs.io/css/)
 - [Layout Land (Jen Simmons, Mozilla)](https://www.youtube.com/layoutland)
 - [Learn CSS by Coding Commanders](https://www.codingcommanders.com/css/)
