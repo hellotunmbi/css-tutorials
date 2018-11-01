@@ -32,6 +32,7 @@ Feel free to contribute and make pull requests.
 - [Quackit](https://www.quackit.com/css/)
 - [freecodecamp](https://medium.freecodecamp.org/get-started-with-css-in-5-minutes-e0804813fc3e)
 - [Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001)
+- [DevDocs](https://devdocs.io/css/)
 - [Layout Land (Jen Simmons, Mozilla)](https://www.youtube.com/layoutland)
 - [Learn CSS by Coding Commanders](https://www.codingcommanders.com/css/)
 
@@ -41,9 +42,9 @@ Feel free to contribute and make pull requests.
 
 - [A Complete Guide to Flexbox by CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Scotch.io - Visual guide to CSS3 flexbox properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
+- [Flexbox froggy - fun game to get introduced to flexbox](https://flexboxfroggy.com/)
 
-<a name="css grid"></a>
-
+<a name="cssgrid"></a>
 ### CSS Grid
 
 - [Getting Started with CSS Grid by CSS Tricks](https://css-tricks.com/getting-started-css-grid/)
