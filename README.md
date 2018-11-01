@@ -28,14 +28,14 @@ Feel free to contribute and make pull requests.
 - [Quackit](https://www.quackit.com/css/)
 - [freecodecamp](https://medium.freecodecamp.org/get-started-with-css-in-5-minutes-e0804813fc3e)
 - [Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001)
-
+- [DevDocs](https://devdocs.io/css/)
 <a name="flexbox"></a>
 
 ### Flexbox
 
 - [A Complete Guide to Flexbox by CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Scotch.io - Visual guide to CSS3 flexbox properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
-
+- [Flexbox froggy - fun game to get introduced to flexbox](https://flexboxfroggy.com/)
 <a name="cssgrid"></a>
 
 ### CSS Grid
