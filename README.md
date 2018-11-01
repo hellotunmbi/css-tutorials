@@ -27,12 +27,20 @@ Feel free to contribute and make pull requests.
 - [Responsive Design Weekly](http://responsivedesignweekly.com/)
 - [A list Apart](https://alistapart.com/topic/css)
 - [CSS Wizardry](https://csswizardry.com/archive/)
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [W3Schools](https://www.w3schools.com/css/)
+- [Quackit](https://www.quackit.com/css/)
+- [freecodecamp](https://medium.freecodecamp.org/get-started-with-css-in-5-minutes-e0804813fc3e)
+- [Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001)
+- [Layout Land (Jen Simmons, Mozilla)](https://www.youtube.com/layoutland)
+- [Learn CSS by Coding Commanders](https://www.codingcommanders.com/css/)
 
 <a name="flexbox"></a>
 
 ### Flexbox
 
 - [A Complete Guide to Flexbox by CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Scotch.io - Visual guide to CSS3 flexbox properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
 
 <a name="css grid"></a>
 
@@ -63,3 +71,4 @@ Feel free to contribute and make pull requests.
 - [CSS Reference](https://cssreference.io/)
 - [CSS Tricks Almanac](https://css-tricks.com/almanac/)
 - [Quackit](https://www.quackit.com/css/)
+- [CSS Grid Garden by Thomas Park](https://cssgridgarden.com)
