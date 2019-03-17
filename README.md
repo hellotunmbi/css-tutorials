@@ -25,6 +25,8 @@ Feel free to contribute and make pull requests.
 - [CSS Wizardry](https://csswizardry.com/archive/)
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [W3Schools](https://www.w3schools.com/css/)
+- [Writing Efficient CSS Selectors](https://csswizardry.com/2011/09/writing-efficient-css-selectors/)
+- [Everything You Need To Know About CSS Variables](https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855)
 
 <a name="flexbox"></a>
 
