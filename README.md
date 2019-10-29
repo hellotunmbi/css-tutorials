@@ -41,6 +41,7 @@ Feel free to contribute and make pull requests.
 - [Layout Land (Jen Simmons, Mozilla)](https://www.youtube.com/layoutland)
 - [Learn CSS by Coding Commanders](https://www.codingcommanders.com/css/)
 - [HTML & CSS is Hard but It Doesnt Have To Be](https://internetingishard.com/html-and-css/)
+- [Best Practices for BEM CSS Naming](https://seesparkbox.com/foundry/bem_by_example)
 
 <a name="flexbox"></a>
 
