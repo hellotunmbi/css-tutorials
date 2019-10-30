@@ -41,6 +41,7 @@ Feel free to contribute and make pull requests.
 - [Layout Land (Jen Simmons, Mozilla)](https://www.youtube.com/layoutland)
 - [Learn CSS by Coding Commanders](https://www.codingcommanders.com/css/)
 - [HTML & CSS is Hard but It Doesnt Have To Be](https://internetingishard.com/html-and-css/)
+- [CSS Author - Web Design Resources, Freebies, Articles & More...](https://cssauthor.com/)
 - [Best Practices for BEM CSS Naming](https://seesparkbox.com/foundry/bem_by_example)
 
 <a name="flexbox"></a>
@@ -89,3 +90,5 @@ Feel free to contribute and make pull requests.
 - [CSS Tricks Almanac](https://css-tricks.com/almanac/)
 - [Quackit](https://www.quackit.com/css/)
 - [CSS Grid Garden by Thomas Park](https://cssgridgarden.com)
+- [CSS Guide Lines](https://cssguidelin.es/)
+- [The CSS Handbook](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/)
