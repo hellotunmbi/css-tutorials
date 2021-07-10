@@ -80,6 +80,12 @@ Feel free to contribute and make pull requests.
 
 - [A guide to CSS animation by Codeburst](https://codeburst.io/a-guide-to-css-animation-part-1-8777f5beb1f8)
 
+<a name="gradient generator"></a>
+
+### Gradient Generators
+
+- [CSS Gradient is a happy little website and free tool that lets you create a gradient background for websites](https://cssgradient.io)
+
 <a name="docs"></a>
 
 ### Docs/Reference
