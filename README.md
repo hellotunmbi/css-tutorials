@@ -82,9 +82,10 @@ Feel free to contribute and make pull requests.
 
 <a name="gradient generator"></a>
 
-### Gradient Generators
+### CSS Tools
 
-- [CSS Gradient is a happy little website and free tool that lets you create a gradient background for websites](https://cssgradient.io)
+- [CSS Gradient Creator](https://cssgradient.io)
+- [CSS Clip Path Maker](https://bennettfeely.com/clippy/)
 
 <a name="docs"></a>
 
