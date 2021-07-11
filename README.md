@@ -80,6 +80,13 @@ Feel free to contribute and make pull requests.
 
 - [A guide to CSS animation by Codeburst](https://codeburst.io/a-guide-to-css-animation-part-1-8777f5beb1f8)
 
+<a name="gradient generator"></a>
+
+### CSS Tools
+
+- [CSS Gradient Creator](https://cssgradient.io)
+- [CSS Clip Path Maker](https://bennettfeely.com/clippy/)
+
 <a name="docs"></a>
 
 ### Docs/Reference
