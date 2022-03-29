@@ -99,3 +99,4 @@ Feel free to contribute and make pull requests.
 - [CSS Grid Garden by Thomas Park](https://cssgridgarden.com)
 - [CSS Guide Lines](https://cssguidelin.es/)
 - [The CSS Handbook](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/)
+- [CSS Tutorials](https://www.scaler.com/topics/css/)
